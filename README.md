@@ -1,12 +1,12 @@
 ## 👋 Hi, I'm Mayank Vishwakarma
 
 🎓 B.Tech CSE (Data Science) Student (2024–2028)  
-💻 Aspiring Full-Stack Developer  
+💻 Aspiring Conquerer Data Science Field 
 🚀 Passionate about Coding, Tech & Building Real Projects  
 
 <div align="center">
 
-**Learning every day | Building step by step | Future Full-Stack Engineer**
+**Learning every day | Building step by step | Future Data Sciencist**
 
 [![GitHub followers](https://img.shields.io/github/followers/manii3m?label=Follow&style=social)](https://github.com/manii3m)
 
@@ -16,10 +16,10 @@
 
 ### 💡 About Me
 
-I am a first-year Computer Science student with a strong interest in **full-stack development, data science, and emerging technologies**.  
+I am a second-year Computer Science student with a strong interest in **data science, and emerging technologies**.  
 I enjoy learning by building — whether it’s small Python programs, C++ practice, or simple web projects.
 
-My goal is to become a **skilled full-stack developer** in the next 3 years and be internship-ready by my 3rd year.
+My goal is to become a **Data Scientist** in the next 3 years and be internship-ready by my 3rd year.
 
 ---
 
