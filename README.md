@@ -19,7 +19,7 @@
 I am a second-year Computer Science student with a strong interest in **data science, and emerging technologies**.  
 I enjoy learning by building — whether it’s small Python programs, C++ practice, or simple web projects.
 
-My goal is to become a **Data Scientist** in the next 3 years and be internship-ready by my 3rd year.
+My goal is to become a **Data Scientist** in the next 2 years and be internship-ready by my 3rd year.
 
 ---
 
