@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello%20World!%20👋%20I'm%20Mayank%20Vishwakarma&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
   
-  <h3>👨‍💻 Full Stack Developer | 🧠 Data Science Enthusiast | 🎓 CSE Student</h3>
+  <h3>👨‍💻 Frontend Developer | 🚪 Backend Learner | 🧠 Data Science Enthusiast | 🎓 CSE Student</h3>
   <p><em>Building tomorrow's digital experiences, one line of code at a time.</em></p>
 
   <a href="https://github.com/manii3m">
